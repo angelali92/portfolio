@@ -491,6 +491,12 @@
 		margin:0;
 		text-transform:uppercase;
 	}
+	.general-wrapper .title h1,
+	article .title h1 {
+		font-size:28px;
+		margin:0;
+		text-transform:uppercase;
+	}
 	#left-sidebar {
 		background:#fff;
 		padding:0 !important;
